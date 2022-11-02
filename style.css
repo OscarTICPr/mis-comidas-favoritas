@@ -1,0 +1,20 @@
+.titulo-1{
+    color: red;
+    background-color:rgb(240, 232, 232);
+}
+body{
+    background-image: url(https://saborgourmet.com/wp-content/uploads/comidas-tipicas-de-brasil.jpg);
+    background-size: cover;
+   }
+   .button{
+    background-color: crimson;
+   }
+   .button p{
+    color: chartreuse;
+   }
+   tr{
+background-color: aquamarine;
+   }
+   caption{
+    background-color: beige;
+   }
